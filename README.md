@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @mayeulchvne
-- 👀 I’m interested in Quantum Computing, Optimization, Modeling and Simulation
-- 🌱 I’m currently learning applied maths at ENSTA Paris - Institut Polytechnique de Paris
-- 💞️ I’m looking to collaborate on Quantum Research during a 6-month research internship starting in April
+- 👀 I’m interested in Modeling, Simulation, Quantum Computing and Optimization
+- 🌱 I’m currently doing an applied maths PhD at INRIA Saclay and ENSTA Paris - Institut Polytechnique de Paris
 - 📫 How to reach me : 
- e-mail : mayeul.chavanne@ensta-paris.fr / mayeul.chavanne@gmail.com
- phone : +33 6 85 83 66 60
+ e-mail : mayeul.chavanne@ensta-paris.fr
 
 <!---
 mayeulchvne/mayeulchvne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
