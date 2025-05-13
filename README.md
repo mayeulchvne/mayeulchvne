@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mayeulchvne
 - 👀 I’m interested in Modeling, Simulation, Quantum Computing and Optimization
-- 🌱 I’m currently doing an applied maths PhD at INRIA Saclay and ENSTA Paris - Institut Polytechnique de Paris
+- 🌱 I’m PhD student at INRIA Saclay and ENSTA Paris - Institut Polytechnique de Paris
 - 📫 How to reach me : 
  e-mail : mayeul.chavanne@ensta-paris.fr
 
